@@ -4,7 +4,7 @@ author: "Wk"
 
 runs:
   using: "node20"
-  main: "npm run build && dist/index.js"
+  main: "dist/index.js"
 inputs:
   name:
     description: "The name of the person to greet"
