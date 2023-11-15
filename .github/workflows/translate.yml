@@ -12,4 +12,4 @@ jobs:
         with:
           node-version: 20
       - uses: actions/checkout@v4
-      - uses: ./testAction
+      - uses: /testAction
